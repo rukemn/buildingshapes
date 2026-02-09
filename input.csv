@@ -1,0 +1,4 @@
+name,kind,wkt_point,osm_url,expr
+a,url,,https://www.openstreetmap.org/way/751701661/,
+b,url,,https://www.openstreetmap.org/way/751701662,
+union,expr,,,"a | b"
